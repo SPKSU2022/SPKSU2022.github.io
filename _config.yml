@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: pages-themes/merlot@v0.1.2
+theme: merlot
 plugins:
   - jekyll-feed
 
