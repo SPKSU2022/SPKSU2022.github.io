@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Backend
-permalink: /https://spksu.github.io/backend
+permalink: /backend
 ---
 
 ### Header
