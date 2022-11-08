@@ -8,4 +8,4 @@ permalink: /https://spksu.github.io/backend
 
 _yay_
 
-[back](./index.markdown)
+[back](./../index.markdown)
