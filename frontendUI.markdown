@@ -4,7 +4,7 @@ title: Frontend
 permalink: ./frontendUI
 ---
 
-### Frontend
+## Frontend
 
 _Enter information regarding why we chose flutter, what benefits its brought, what struggles its brought._
 
