@@ -4,7 +4,7 @@ title: Conclusion
 permalink: ./conclusion
 ---
 
-### Conclusion
+## Conclusion
 
 _Enter a reflection about the project, the valuable lessons learned, and the struggles that came up._
 
