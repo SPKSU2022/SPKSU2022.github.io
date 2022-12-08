@@ -12,8 +12,8 @@ To complete this task, our program will provide a place where users can create a
 ### About
 [About](about.markdown)
 
-### Timeline
-[Timeline](timeline.markdown)
+### Analysis
+[Analysis](analysis.markdown)
 
 ### Scope
 [Scope](scope.markdown)
