@@ -1,0 +1,14 @@
+---
+layout: page
+title: Analysis
+permalink: ./analysis
+---
+
+## Analysis
+
+At the conclusion of the work cycle, CompChores was able to sustain a working development build that incorporated goals from both the Front End and Back End planning phases. In terms of the UI for the WebApp, the incorporation of the AWS packages and desired functionality lead to mandatory retraction from the original interface design. This final presentation is a skimmed variant which presents all of the agreed vital information within a single display. In practice, this had benefits in the case of ergonomics on the users’ end. This simplification to one screen for the WebApp permitted users to quickly open the app, conduct any necessary changes from the comfort of the single screen and then leave. This simplistic outcome of making chore management software as quick and simple to use with minimum fuss demonstrated an almost Occam’s Razor level revelation that ergonomics holds an unprecedented degree of importance in the end. All these integrated AWS would mean little to nothing for one of the central pillars to a web application’s success: the user base.
+Utilizing specialized tools for compounding projects shows merit in the mélange of specialized tools rather than reliant on proprietary developments. It is important for one to know what they choose to integrate, since bloating a project without proper comprehension of when and where said package would most efficiently fit leads to sacrifice of optimization. However, what this project succinctly taught was that merely looking inward for optimization can lead to tripping on the front end. All too easy is it for one to find a potential fix or useful module without realizing how incompatible it would be wholly, as demonstrated by Amplify’s API constraining non-modularity. This led to the unfortunate death of the original graphic login initialization, but gave birth to a more streamlined login process once control of the API was reigned.
+The Amazon Web Services themselves were beyond utilitarian. The sweat and effort that went into their incorporation proved fruitful in the end with efficient calls being made from device to database and vice versa. The AWS modules were treated as precision-based tools to an otherwise overall operation: specialized, congruent capable instruments for desired functions. One could argue that on a superficial level, CompChores serves more as a medium for these services. This does not retract the educational merit garnered from construing the appropriate channels to embed separate, near stand-alone elements in a functional presentation. It is a balancing act on the tight wire of harmony over the pitfalls of disjunction, and overloading your weight with unnecessary features only serves to become detrimental to the unity in its entirety.
+
+
+[back](index.markdown)
