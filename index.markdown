@@ -24,6 +24,9 @@ To complete this task, our program will provide a place where users can create a
 ### Frontend
 [Frontend/UI](frontendUI.markdown)
 
+### Methods
+[Methods](methods.markdown)
+
 ### Source Control
 [Source Control](sourceControl.markdown)
 
