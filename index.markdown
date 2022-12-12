@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
----
 driveId: 1a6sTlGvBDrxSKtPnXzPiQcI4f_Ok98BZ/preview
 ---
 
