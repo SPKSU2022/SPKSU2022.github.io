@@ -12,7 +12,7 @@ To complete this task, our program will provide a place where users can create a
 
 <center>{% include googleDrivePlayer.html id=page.driveId %}</center>
 
-## [Final Report](https://docs.google.com/document/d/1GdKAnP0RcsQTl5xn7LQOiEBJllJEl3li/edit?usp=sharing&ouid=113924076365530760854&rtpof=true&sd=true){: .btn}
+## [Final Report](https://docs.google.com/document/d/1GdKAnP0RcsQTl5xn7LQOiEBJllJEl3li/edit?usp=sharing&ouid=113924076365530760854&rtpof=true&sd=true)
 
 ### About
 [About](about.markdown)
